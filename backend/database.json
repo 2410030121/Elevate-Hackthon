@@ -1,0 +1,28 @@
+[
+  {
+    "id": "CP-1042",
+    "title": "Open manhole near community park",
+    "category": "Open Manhole",
+    "priority": "EMERGENCY",
+    "status": "In Progress",
+    "lat": 17.4522,
+    "lng": 78.3911,
+    "time": "2 min ago",
+    "description": "Large uncovered manhole on the roadside.",
+    "reporter": "Citizen",
+    "emergency": true
+  },
+  {
+    "id": "CP-1041",
+    "title": "Broken streetlight on 4th Avenue",
+    "category": "Streetlight",
+    "priority": "HIGH",
+    "status": "Assigned",
+    "lat": 17.4485,
+    "lng": 78.3877,
+    "time": "18 min ago",
+    "description": "Streetlight is not working after sunset.",
+    "reporter": "Citizen",
+    "emergency": false
+  }
+]
